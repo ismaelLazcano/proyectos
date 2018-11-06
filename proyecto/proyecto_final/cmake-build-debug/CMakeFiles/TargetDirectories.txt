@@ -1,3 +1,0 @@
-C:/Users/ismal/Documents/proyecto_final/cmake-build-debug/CMakeFiles/proyecto_final.dir
-C:/Users/ismal/Documents/proyecto_final/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/ismal/Documents/proyecto_final/cmake-build-debug/CMakeFiles/rebuild_cache.dir

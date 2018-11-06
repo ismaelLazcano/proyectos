@@ -1,3 +1,0 @@
-C:/Users/ismal/Documents/tarea_7/cmake-build-debug/CMakeFiles/tarea_7.dir
-C:/Users/ismal/Documents/tarea_7/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/ismal/Documents/tarea_7/cmake-build-debug/CMakeFiles/rebuild_cache.dir

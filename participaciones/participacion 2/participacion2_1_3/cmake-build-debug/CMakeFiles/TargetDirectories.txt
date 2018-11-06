@@ -1,3 +1,0 @@
-C:/Users/ismal/Documents/participacion2_1_3/cmake-build-debug/CMakeFiles/participacion2_1_3.dir
-C:/Users/ismal/Documents/participacion2_1_3/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/ismal/Documents/participacion2_1_3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
