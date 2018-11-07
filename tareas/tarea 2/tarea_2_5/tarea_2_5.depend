@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1516338701 source:c:\users\ismal\documents\tarea_2_5\main.c
+	<stdio.h>
+	<stdlib.h>
+
